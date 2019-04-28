@@ -9,3 +9,6 @@ https://www.offering.solutions/blog/
 Best site for angular with working code examples
 
 https://www.concretepage.com/angular/
+
+Best Javascript Libraries for future
+https://getflywheel.com/layout/best-javascript-libraries-frameworks-2019/
