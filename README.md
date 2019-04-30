@@ -12,3 +12,6 @@ https://www.concretepage.com/angular/
 
 Best Javascript Libraries for future
 https://getflywheel.com/layout/best-javascript-libraries-frameworks-2019/
+
+D3 Exampls
+https://github.com/d3/d3/wiki/Gallery
