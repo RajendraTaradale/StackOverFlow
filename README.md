@@ -19,3 +19,5 @@ https://github.com/d3/d3/wiki/Gallery
 .Net Core Architecture Guidance
 
 https://dotnet.microsoft.com/learn/web/aspnet-architecture
+
+https://devblogs.microsoft.com/dotnet/web-apps-aspnetcore-architecture-guidance/
