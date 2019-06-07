@@ -15,3 +15,7 @@ https://getflywheel.com/layout/best-javascript-libraries-frameworks-2019/
 
 D3 Exampls
 https://github.com/d3/d3/wiki/Gallery
+
+.Net Core Architecture Guidance
+
+https://dotnet.microsoft.com/learn/web/aspnet-architecture
