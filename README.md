@@ -21,3 +21,6 @@ https://github.com/d3/d3/wiki/Gallery
 https://dotnet.microsoft.com/learn/web/aspnet-architecture
 
 https://devblogs.microsoft.com/dotnet/web-apps-aspnetcore-architecture-guidance/
+
+Add an authorization header to your swagger-ui with Swashbuckle
+https://mattfrear.com/2018/07/21/add-an-authorization-header-to-your-swagger-ui-with-swashbuckle-revisited/
