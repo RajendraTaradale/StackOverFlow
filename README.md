@@ -24,3 +24,6 @@ https://devblogs.microsoft.com/dotnet/web-apps-aspnetcore-architecture-guidance/
 
 Add an authorization header to your swagger-ui with Swashbuckle
 https://mattfrear.com/2018/07/21/add-an-authorization-header-to-your-swagger-ui-with-swashbuckle-revisited/
+
+Microservices Architecture Training
+https://www.edureka.co/blog/what-is-microservices/?utm_source=youtube&utm_medium=crosspost&utm_campaign=social-media-edureka-march-samarpit
