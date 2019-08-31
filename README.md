@@ -30,3 +30,16 @@ https://www.edureka.co/blog/what-is-microservices/?utm_source=youtube&utm_medium
 
 Project structure POC
 https://www.codeproject.com/Articles/1224226/ASP-NET-Core-A-Multi-Layer-Data-Service-Applicatio
+--------------------------------------------------------
+  "errorMessage": "Cannot find module '/var/task/index'", aws lambda function deployment error
+  "errorType": "Error",
+  "stackTrace": [
+    "Function.Module._load (module.js:276:25)",
+    "Module.require (module.js:353:17)",
+    "require (internal/module.js:12:17)"
+  ]
+}
+
+Solution - select all files within the directory and zip those instead. 
+
+
