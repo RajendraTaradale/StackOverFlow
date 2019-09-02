@@ -47,7 +47,7 @@ https://www.owasp.org/index.php/Main_Page - All web security options
 
 Cassandra Development  Guideline https://github.com/datastax/csharp-driver
 DevStax DevCenter - https://downloads.datastax.com/devcenter/DevCenter-win-x86_64.zip
-
+https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlSelect.html
 Cassandra Error Fix
 except ImportError, e:
 except ImportError as e:
