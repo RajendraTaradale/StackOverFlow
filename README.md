@@ -43,3 +43,9 @@ https://www.codeproject.com/Articles/1224226/ASP-NET-Core-A-Multi-Layer-Data-Ser
 Solution - select all files within the directory and zip those instead. 
 
 https://www.owasp.org/index.php/Main_Page - All web security options
+
+
+Cassandra Development  Guideline https://github.com/datastax/csharp-driver
+DevStax DevCenter - https://downloads.datastax.com/devcenter/DevCenter-win-x86_64.zip
+
+
