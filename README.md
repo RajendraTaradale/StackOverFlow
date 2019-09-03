@@ -54,3 +54,4 @@ except ImportError as e:
 Solution -
 https://stackoverflow.com/questions/19142231/cassandra-file-cqlsh-line-95-except-importerror-e
 
+https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL
