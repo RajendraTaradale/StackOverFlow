@@ -55,3 +55,18 @@ Solution -
 https://stackoverflow.com/questions/19142231/cassandra-file-cqlsh-line-95-except-importerror-e
 
 https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL
+
+Node Frameworks
+
+adonisjs
+trailsjs
+strapi
+sailsjs
+snyk.io
+Circle.io
+https://portswigger.net/
+helmet with http
+authO /crypto npm for security
+express-rate-limit - npm 
+npm audit for vulenrability check fires everytime
+
