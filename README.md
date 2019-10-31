@@ -72,3 +72,5 @@ npm audit for vulenrability check fires everytime
 
 https://github.com/aspnet/Identity/blob/release/2.2/src/Identity/DataProtectionTokenProvider.cs
 
+http://jodies.de/ipcalc to calculate ip and subnet 
+
