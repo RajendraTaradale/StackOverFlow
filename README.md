@@ -79,3 +79,5 @@ https://www.tutorialkart.com/nodejs/node-js-examples/
 https://db-engines.com/en/system/Cassandra%3BCouchbase%3BMongoDB
 
 https://www.ipaddressguide.com/cidr
+
+https://dictation.io/speech speech to text online 
