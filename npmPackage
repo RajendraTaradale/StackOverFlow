@@ -11,7 +11,16 @@ function area(data){
  // export to other modules
  exports.area = area;
  exports.perimeter = perimeter;
+------------------------------------------------------------------------------------
 
+
+npm init - package.json configuration
+npm login - to verify the npm org account
+npm version 1.0.2 ---> for any update in code just change the version and publish 
+npm publish
+
+
+---------------------------------------------------------------------------------
 //Caller client Side
 const  { area, perimeter } = require("calculate_area_rt");
 
