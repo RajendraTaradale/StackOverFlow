@@ -44,6 +44,7 @@ Solution - select all files within the directory and zip those instead.
 
 https://www.owasp.org/index.php/Main_Page - All web security options
 
+https://vegibit.com/most-useful-javascript-array-functions/ Javascript
 
 Cassandra Development  Guideline https://github.com/datastax/csharp-driver
 DevStax DevCenter - https://downloads.datastax.com/devcenter/DevCenter-win-x86_64.zip
