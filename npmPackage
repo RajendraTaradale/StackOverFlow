@@ -1,1 +1,19 @@
+//Your Package Code
 
+function area(data){
+     return  Math.PI * data * data;
+ }
+ 
+ function perimeter(data){
+     return 2*Math.PI * data;
+ }
+ 
+ // export to other modules
+ exports.area = area;
+ exports.perimeter = perimeter;
+
+//Caller client Side
+const  { area, perimeter } = require("calculate_area_rt");
+
+console.log(area(4));
+console.log(perimeter(4));
