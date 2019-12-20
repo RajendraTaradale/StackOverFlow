@@ -82,3 +82,6 @@ https://db-engines.com/en/system/Cassandra%3BCouchbase%3BMongoDB
 https://www.ipaddressguide.com/cidr
 
 https://dictation.io/speech speech to text online 
+
+AWS ESC instance
+https://stackoverflow.com/questions/36523282/aws-ecs-error-when-running-task-no-container-instances-were-found-in-your-clust
