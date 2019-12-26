@@ -85,3 +85,5 @@ https://dictation.io/speech speech to text online
 
 AWS ESC instance
 https://stackoverflow.com/questions/36523282/aws-ecs-error-when-running-task-no-container-instances-were-found-in-your-clust
+
+https://www.google.com/amp/s/cloudblog.withgoogle.com/products/gcp/7-best-practices-for-building-containers/amp/
