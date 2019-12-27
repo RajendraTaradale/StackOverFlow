@@ -91,3 +91,5 @@ https://www.google.com/amp/s/cloudblog.withgoogle.com/products/gcp/7-best-practi
 https://snyk.io/blog/10-docker-image-security-best-practices/
 
 https://www.edureka.co/blog/docker-commands/
+
+https://towardsdatascience.com/how-to-deploy-a-docker-container-python-on-amazon-ecs-using-amazon-ecr-9c52922b738f
