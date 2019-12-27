@@ -89,3 +89,5 @@ https://stackoverflow.com/questions/36523282/aws-ecs-error-when-running-task-no-
 https://www.google.com/amp/s/cloudblog.withgoogle.com/products/gcp/7-best-practices-for-building-containers/amp/
 
 https://snyk.io/blog/10-docker-image-security-best-practices/
+
+https://www.edureka.co/blog/docker-commands/
