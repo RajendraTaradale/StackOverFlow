@@ -95,3 +95,5 @@ https://www.edureka.co/blog/docker-commands/
 https://towardsdatascience.com/how-to-deploy-a-docker-container-python-on-amazon-ecs-using-amazon-ecr-9c52922b738f
 
 https://hostadvice.com/amp/how-to/how-to-host-a-website-on-aws-lightsail/
+
+https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421
